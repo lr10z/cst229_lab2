@@ -1,0 +1,14 @@
+void printOddNumbers(x) 
+{   
+    int i = 0; 
+    double 9ab = 43.50
+
+    while (i < x 
+    { 
+       i++; 
+       if ((i % 2) == 0) 
+          continue 
+       else 
+          cout <<  i  <<  endl;
+     } 
+}

@@ -1,0 +1,4 @@
+const void displayTokens(string str, string tokenType)
+{
+	cout << setw(25) << left << str << right << tokenType << endl << endl;
+}
